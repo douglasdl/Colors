@@ -35,7 +35,13 @@
 - [Photo Room](https://www.photoroom.com/)
 - [Unscreen](https://www.unscreen.com/)
 
+## Videos Templates
+- [Jitter Video](https://jitter.video/)
+
 ## Design and Layout
 
 - [Figma](https://www.figma.com/)
 - [Penpot](https://penpot.app/)
+
+## Trend
+- [Keyword Tool](https://keywordtool.io/)
