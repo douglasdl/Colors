@@ -29,6 +29,12 @@
 
 - [Transform Tools](https://transform.tools/)
 
+## Image and Video Background Removers
+
+- [Magic Eraser](https://magicstudio.com/magiceraser)
+- [Photo Room](https://www.photoroom.com/)
+- [Unscreen](https://www.unscreen.com/)
+
 ## Design and Layout
 
 - [Figma](https://www.figma.com/)
