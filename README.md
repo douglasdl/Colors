@@ -25,6 +25,9 @@
  - [UI Faces](https://www.uifaces.co/)
  - [Lorem Faces](https://loremfaces.com/)
 
+## Icons
+ - (Expo Icons)[https://icons.expo.fyi/]
+
 ## Image Format Converters
 
 - [Transform Tools](https://transform.tools/)
