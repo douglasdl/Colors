@@ -31,6 +31,7 @@
 ## Image Format Converters
 
 - [Transform Tools](https://transform.tools/)
+- [HEIC to JPG](https://www.apowersoft.com/heic-to-jpg)
 
 ## Audio, Video and PDF Editors
 - [123 Apps](https://123apps.com/)
