@@ -24,6 +24,13 @@
  - [Freepik](https://www.freepik.com/)
  - [UI Faces](https://www.uifaces.co/)
  - [Lorem Faces](https://loremfaces.com/)
+ - (Tech Pic)[http://tech-pic.com/]
+ - (ちょうどいいイラスト)[https://tyoudoii-illust.com/]
+ - (ソコスト)[https://soco-st.com/]
+ - (Line, Illustration, Stock)[https://www.linustock.com/]
+ - (Loose Drawing)[https://loosedrawing.com/]
+ - (Shigureni)[https://www.shigureni.com/]
+
 
 ## Icons
  - (Expo Icons)[https://icons.expo.fyi/]
