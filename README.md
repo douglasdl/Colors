@@ -57,6 +57,9 @@
 - [Figma](https://www.figma.com/)
 - [Penpot](https://penpot.app/)
 
+## Draft and Annotations
+- [Excalidraw](https://excalidraw.com/)
+
 ## Trend
 - [Keyword Tool](https://keywordtool.io/)
 - [Exploding Topics](https://explodingtopics.com/)
