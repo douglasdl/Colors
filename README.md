@@ -34,6 +34,9 @@
 
 ## Icons
  - [Expo Icons](https://icons.expo.fyi/)
+ - [Font Awesome](https://fontawesome.com/v4/icons/)
+ - [Angular Material Icons](https://klarsys.github.io/angular-material-icons/)
+ - [Weather Icons Lite](https://github.com/Paul-Reed/weather-icons-lite/blob/master/css_mappings.md)
 
 ## Image Format Converters
 
