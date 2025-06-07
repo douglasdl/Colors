@@ -37,6 +37,8 @@
  - [Font Awesome](https://fontawesome.com/v4/icons/)
  - [Angular Material Icons](https://klarsys.github.io/angular-material-icons/)
  - [Weather Icons Lite](https://github.com/Paul-Reed/weather-icons-lite/blob/master/css_mappings.md)
+ - [Icomoon](https://icomoon.io/app)
+ - [Flat Icon](https://www.flaticon.com/br/)
 
 ## Image Format Converters
 
