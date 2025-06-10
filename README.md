@@ -68,3 +68,19 @@
 ## Trend
 - [Keyword Tool](https://keywordtool.io/)
 - [Exploding Topics](https://explodingtopics.com/)
+
+## AI
+- [Chat GPT](https://chat.openai.com/chat)
+- [v0](https://v0.dev/)
+- [Gemini](https://gemini.google.com/app)
+- [Grok](https://x.ai/)
+- [Perplexity](https://www.perplexity.ai/)
+- [Midjourney](https://www.midjourney.com/explore?tab=top)
+- [Deep Seek](https://www.deepseek.com/en)
+- [Manus](https://manus.im/guest)
+- Claude
+- Jasper AI
+- Microsoft Copilot
+- [Character AI](https://character.ai/)
+- Amazon Q
+- Llama 3 by Meta AI
