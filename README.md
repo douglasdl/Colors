@@ -74,13 +74,14 @@
 - [v0](https://v0.dev/)
 - [Gemini](https://gemini.google.com/app)
 - [Grok](https://x.ai/)
+- [Manus](https://manus.im/guest)
+- [Deep Seek](https://www.deepseek.com/en)
 - [Perplexity](https://www.perplexity.ai/)
 - [Midjourney](https://www.midjourney.com/explore?tab=top)
-- [Deep Seek](https://www.deepseek.com/en)
-- [Manus](https://manus.im/guest)
-- Claude
-- Jasper AI
-- Microsoft Copilot
+- [Claude](https://claude.ai/)
+- [ADAPTA](https://adapta.org/)
+- [Jasper AI](https://www.jasper.ai/)
+- [Microsoft Copilot](https://copilot.microsoft.com/)
 - [Character AI](https://character.ai/)
-- Amazon Q
-- Llama 3 by Meta AI
+- [Amazon Q](https://aws.amazon.com/q/)
+- [Llama 3 by Meta AI](https://www.llama.com/models/llama-3/)
